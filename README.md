@@ -1,0 +1,3 @@
+# VerticalViewPager
+
+写了一个最简单的demo来实现上下滑动的viewpager
